@@ -87,7 +87,7 @@ You point to where the files are stored, and specify the fields that define them
 
 ### Widgets
 
-Widgets define the data type and interface for entry fields. Netlify CMS comes with several built-in [widgets](/docs/widgets).
+Widgets define the data type and interface for entry fields. Netlify CMS comes with several built-in [widgets](/docs/widgets.md).
 
 ## Customization
 
